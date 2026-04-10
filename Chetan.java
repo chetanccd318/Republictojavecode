@@ -1,10 +1,7 @@
 public class Chetan {
 	public static void main(String[] args) {
-		System.out.println("26th January is celebrated as Republic Day in India.");
-		System.out.println("On this day in 1950, the Constitution of India came into effect.");
-		System.out.println("It is a national holiday and is celebrated with great pride and enthusiasm.");
-		System.out.println("The main celebration takes place at Rajpath, New Delhi, with a grand parade.");
-		System.out.println("Republic Day honors the spirit of independent and democratic India.");
-		System.out.println("Hello My prohram is successfully automated for build, complie, testing over jenkins ");
+		System.out.println("hi chetan , You are doing good , learned about  CI AND CD through Jenkins, 
+						   Today, We are focusing on Pipeline job using  groovy language, Just chec update on jenkins after editing in Github");
+		
 	}
 }
